@@ -1,7 +1,7 @@
-export const dynamic = "force-dynamic";
 
 'use client';
 
+export const dynamic = "force-dynamic";
 
 import { ProfileSheet } from "@/components/dashboard/profile-sheet";
 import { useState } from "react";
